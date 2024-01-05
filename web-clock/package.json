@@ -1,0 +1,10 @@
+{
+  "name": "web-clock",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "your_name <your_email@mail.com>",
+  "license": "ISC"
+}
